@@ -12,10 +12,10 @@
 </a>
 <a href="https://medium.com/@mirzasahin" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
+</a>  
 <a href="https://www.artstation.com/mirzasahin" target="_blank">
-<img src=https://img.shields.io/twitter/url?color=white&label=ArtStat%C4%B1on&logo=artstation&style=for-the-badge&url=https%3A%2F%2Fwww.artstation.com%2Fmirzasahin
-style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/ARTSTATION-%23353535.svg?&style=for-the-badge&logo=artstation&logoColor alt=artstation style="margin-bottom: 5px;" />
+</a>
   
 </a>  
   <br>
@@ -59,8 +59,12 @@ style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom:
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/2101px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="Lightroom" height="50" /></a>  
 </div>  
 
-<br/>  
+<br/> 
 
+## My Latest Blog Post in Medium
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mirzasahin/0" alt="Recent Article 0"> </a>
+
+<br/>
 
 ## Github Stats
 <table><tr><td valign="top" width="50%">
