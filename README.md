@@ -25,7 +25,7 @@
 
 - 🌍 I'm interested in web 3.0, blockchain, and smart contracts.  
 
-- 🌱 I’m currently learning **JavaScript**, **React**, **Three.js** & **Blender**.  
+- 🌱 I’m currently learning **JavaScript**, **React**, **Next.js**, **Three.js** & **Blender**.  
 
 - ❓ Ask me about anything related to 3D, software, and front-end development.  
 
