@@ -27,9 +27,9 @@
 
 - 🌱 I’m currently learning **JavaScript**, **React**, **Next.js**, **Three.js**, **Unity** & **Blender**.  
 
-- ❓ Ask me about anything related to 3D, software, and front-end & Game development.  
+- ❓ Ask me about anything related to 3D, software, front-end & Game development.  
 
-- 👉 You can reach out to me with [this link](https://www.linkedin.com/in/mirzasahin/).  
+- 👉 You can contact me with [this link](https://www.linkedin.com/in/mirzasahin/).  
 
 
 </td><td valign="top" width="16%">
