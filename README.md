@@ -48,6 +48,7 @@
 <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/374118/tailwind.svg" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/349540/typescript.svg" alt="TypeScript" height="50" /></a>
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Nextjs" height="50" /></a>
 <a href="https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1200px-Three.js_Icon.svg.png" alt="three.js" height="50" /></a>
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://companieslogo.com/img/orig/U-ea48bc1d.png?t=1634728034" height="50" /></a>
