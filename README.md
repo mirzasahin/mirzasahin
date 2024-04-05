@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently working with **JavaScript**, **React**, **Next.js**, **Three.js**, **Unity** & **Blender**.  
 
-- ❓ Ask me about anything related to 3D, software, front-end & Game development.  
+- ❓ Ask me about anything related to 3D, software, creative & front-end and mobile game development.  
 
 - 👉 You can contact me with [this link](https://www.linkedin.com/in/mirzasahin/).  
 
